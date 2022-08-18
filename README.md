@@ -4,4 +4,5 @@ This a repository for Web Developers
 
 ## Index
 ### - Work
-- [Freelancer](freelancer/freelancer.md)
+- [Freelancer](work/freelancer.md)
+- [Remote](work/remote.md)
